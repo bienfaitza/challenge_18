@@ -1,6 +1,4 @@
-# Cryptocurrencies
-Unsupervised Machine Learning and Cryptocurrencies
-
+ 
 ## Purpose: 
 A client asked for a list of tradable cryptocurrencies and wants to be able to pick them from a classification system.    
 
